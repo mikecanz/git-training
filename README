@@ -1,0 +1,14 @@
+My env repo:
+
+http://github.com/mikecanz/env
+
+git://github.com/mikecanz/env.git
+
+alias gd="git difftool --tool=vimdiff"
+alias gl="git log -n 20 --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset %an' --abbrev-commit --date=relative"
+alias gs="git status"
+alias gco="git checkout"
+alias gci="git commit"
+alias gb="git branch"
+alias gba="git branch -a"
+
